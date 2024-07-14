@@ -1,3 +1,5 @@
 # Budget-Tracker
 This is an program which can be used for personal budget tracker and works primarily on Python (SQLite3 module) which helps in managing finances effectively. It uses the mentioned module to store the records in a database file and query the results using SQL commands. User inputs are handled through a structured command-line interface (CLI).
 Potential enhancements include adding graphical visualization capabilities using various python modules and a better user interface by modifying it into a web application which can help better achieving its goal by offering better user experience.
+It offers various operations i.e. adding transactions, updating transactions, deleting transactions, viewing all history, viewing transactions by type, generating summary reports and calculating wallent balance. It stores various useful information about every transactions (records) i.e. transaction id, date of transaction, category as expense (subtracted from wallet) or income (added to wallet), description about transaction user want to store, its amount and type of transactions from given options.
+
